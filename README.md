@@ -126,11 +126,22 @@ public class Aravinthan {
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aravinthpvm&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="Trophies"/>
-</p>
+<div align="center">
+
+| 🥇 | Milestone | Detail |
+|:---:|:---|:---|
+| 🎓 | Final Year CS Student | EASA College — Graduating Jun 2026 |
+| ☕ | Oracle Certified | Java Foundations — Oracle |
+| ☁️ | OCI AI Foundations | Oracle Cloud Infrastructure 2023 |
+| 🐍 | IBM Certified | Python Programming — IBM SkillsBuild |
+| 👔 | Department Secretary | Led 10+ events, 150+ students |
+| 🏆 | Hackathon | Built Inno-Pulse — Innovation Metrics Web App |
+| 🎤 | Paper Presentation | Sri Sai Ranganathan College of Engineering (2025) |
+| 🔧 | 50+ REST APIs | Across Alumni Portal, NearFix &amp; HMS projects |
+
+</div>
 
 ---
 
