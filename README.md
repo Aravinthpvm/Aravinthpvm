@@ -36,10 +36,10 @@ public class Aravinthan {
     };
 
     String[] currentlyLearning = {
-        "System Design & Distributed Systems",
+        "System Design &amp; Distributed Systems",
         "DSA — LeetCode Grind (NeetCode 150)",
         "Spring Security Advanced Patterns",
-        "Docker & Kubernetes Fundamentals"
+        "Docker &amp; Kubernetes Fundamentals"
     };
 
     String funFact = "I built 45+ REST API endpoints "
@@ -60,40 +60,40 @@ public class Aravinthan {
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
 
-**Frameworks & Libraries**
+**Frameworks &amp; Libraries**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS"/>
 
-**Cloud & DevOps**
+**Cloud &amp; DevOps**
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="CI/CD"/>
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="SQL"/>
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-38BDAE?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-BF91F3?style=flat-square&logo=jira&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/REST%20APIs-38BDAE?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Agile%2FScrum-BF91F3?style=flat-square&amp;logo=jira&amp;logoColor=white" alt="Agile"/>
 
 ---
 
@@ -140,9 +140,9 @@ public class Aravinthan {
   <summary><b>🏢 AISECT Ltd. (in collaboration with Capgemini) — Java Full Stack Development Intern &nbsp;|&nbsp; Dec 2025 – Apr 2026 &nbsp;|&nbsp; Coimbatore, India</b></summary>
   <br/>
 
-  > ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-  > ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  > ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  > <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot"/>
+  > <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"/>
+  > <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
   > ![REST APIs](https://img.shields.io/badge/REST%20APIs-38BDAE?style=flat-square)
   > ![Agile](https://img.shields.io/badge/Agile%2FScrum-BF91F3?style=flat-square)
 
@@ -157,11 +157,11 @@ public class Aravinthan {
   <summary><b>🏢 AICTE – Edunet Foundation (IBM) — Frontend Development Intern &nbsp;|&nbsp; Aug 2025 – Sep 2025 &nbsp;|&nbsp; India (Remote)</b></summary>
   <br/>
 
-  > ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  > ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  > <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"/>
+  > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"/>
+  > <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5"/>
+  > <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
+  > <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
 
   - 🎨 Built **8+ responsive UI components** and pages using React.js, HTML, CSS, and JavaScript, adapting quickly to evolving design requirements.
   - 🔗 Integrated frontend modules with backend REST APIs, ensuring consistent and seamless data flow across the application.
@@ -174,9 +174,9 @@ public class Aravinthan {
   <summary><b>🏢 Pinnacle Labs — Full Stack Development Intern &nbsp;|&nbsp; Jun 2025 – Jul 2025 &nbsp;|&nbsp; India (Remote)</b></summary>
   <br/>
 
-  > ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-  > ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-  > ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  > <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+  > <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot"/>
+  > <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"/>
 
   - 🧩 Developed backend logic for **3+ application modules** in Java, independently learning new design patterns to meet project requirements.
   - 🐛 Identified and resolved **10+ functional and performance bottlenecks** during testing cycles, documenting findings and communicating solutions to team leads.
@@ -206,11 +206,11 @@ public class Aravinthan {
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🎓 | **B.E. Computer Science** | CGPA **8.1** — EASA College of Engineering & Technology (2022–2026) |
+| 🎓 | **B.E. Computer Science** | CGPA **8.1** — EASA College of Engineering &amp; Technology (2022–2026) |
 | ☕ | **Oracle Java Foundations** | Certified by Oracle — Advanced Java fundamentals |
 | ☁️ | **Oracle Cloud Infrastructure 2023 AI Foundations Associate** | OCI AI Certified — Oracle |
 | 🐍 | **IBM SkillsBuild Python Programming** | Certified by IBM |
-| 🛠️ | **Full Stack Development Workshop** | Novi Tech R&D Pvt. Ltd. |
+| 🛠️ | **Full Stack Development Workshop** | Novi Tech R&amp;D Pvt. Ltd. |
 | 🏆 | **Hackathon — Inno-Pulse** | Designed an innovation metrics tracking web application |
 | 🎤 | **Paper Presentation** | Presented at Sri Sai Ranganathan College of Engineering (2025) |
 | 👔 | **Department Secretary** | Led **10+ technical events**, managed coordination for **150+ students** |
@@ -219,13 +219,13 @@ public class Aravinthan {
 
 ---
 
-## 🎓 Education & Currently Learning
+## 🎓 Education &amp; Currently Learning
 
 <div align="center">
 
 | 📜 Degree | 🏫 Institution | 📅 Year | 🏆 Score |
 |:---|:---|:---:|:---:|
-| B.E. in Computer Science & Engineering | EASA College of Engineering & Technology, Coimbatore | 2022 – 2026 | **8.1 CGPA** |
+| B.E. in Computer Science &amp; Engineering | EASA College of Engineering &amp; Technology, Coimbatore | 2022 – 2026 | **8.1 CGPA** |
 
 </div>
 
@@ -235,7 +235,7 @@ public class Aravinthan {
 🧱 Currently Learning → Roadmap
 
   📐 System Design          → Distributed Systems · CAP Theorem · Load Balancing
-  🧮 DSA & Algorithms       → LeetCode 150 (NeetCode) · Trees · Graphs · DP
+  🧮 DSA &amp; Algorithms       → LeetCode 150 (NeetCode) · Trees · Graphs · DP
   🔐 Spring Security        → OAuth2 · Advanced JWT Patterns · CSRF Hardening
   🐳 Containerization       → Docker Basics → Docker Compose → Kubernetes Intro
   ⚙️  Cloud Architecture    → Azure App Services · Azure Functions · CI/CD Pipelines
