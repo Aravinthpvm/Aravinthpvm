@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey+there%2C+I%27m+Aravinthan+B+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%2B+React.js;Microservices+%7C+REST+APIs+%7C+Azure+%7C+CI%2FCD;Open+to+SWE+and+Full+Stack+Roles+in+Chennai" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hey+there%2C+I%27m+Aravinthan+B+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot+%2B+React.js;Microservices+%7C+REST+APIs+%7C+Azure+%7C+CI%2FCD;Open+to+SWE+and+Full+Stack+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
