@@ -203,9 +203,9 @@ public class Aravinthan {
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**Alumni Portal**](https://github.com/Aravinthpvm) — College Networking Platform | Java · Spring Boot · React.js · MongoDB · JWT | 🔑 Multi-role system (Student/Alumni/Admin) with JWT RBAC · 45+ RESTful endpoints · 11 MongoDB collections · Mentorship workflow + real-time-ready messaging |
-| [**NearFix**](https://github.com/Aravinthpvm) — Local Service Finder | Java · Spring Boot · MongoDB · Azure · GitHub Actions | ☁️ Deployed on Microsoft Azure · CI/CD via GitHub Actions · ~25% faster data retrieval via MongoDB indexing · Microservices-ready architecture |
-| [**Hostel Management System**](https://github.com/Aravinthpvm) — Institution Platform | Java · Spring Boot · React.js · MongoDB · JWT · Tailwind CSS | 🏠 4-role system (Owner/Warden/Student/Guard) · BCrypt hashing · CORS production security · Axios interceptors for seamless API communication |
+| [**Alumni Portal**](https://github.com/Aravinthpvm/Alumini-Connect) — College Networking Platform | Java · Spring Boot · React.js · MongoDB · JWT | 🔑 Multi-role system (Student/Alumni/Admin) with JWT RBAC · 45+ RESTful endpoints · 11 MongoDB collections · Mentorship workflow + real-time-ready messaging |
+| [**NearFix**](https://github.com/Aravinthpvm/NearFix) — Local Service Finder | Java · Spring Boot · MongoDB · Azure · GitHub Actions | ☁️ Deployed on Microsoft Azure · CI/CD via GitHub Actions · ~25% faster data retrieval via MongoDB indexing · Microservices-ready architecture |
+| [**Hostel Management System**](https://github.com/Aravinthpvm/Hostel-Management-System) — Institution Platform | Java · Spring Boot · React.js · SQL · JWT  | 🏠 4-role system (Owner/Warden/Student/Guard) · BCrypt hashing · CORS production security · Axios interceptors for seamless API communication |
 
 </div>
 
